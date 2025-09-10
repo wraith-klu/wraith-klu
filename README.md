@@ -33,7 +33,7 @@ As a passionate and driven Computer Science Engineering student specializing in 
 - **Frameworks:** React.js, Spring Boot  
 - **Databases:** MySQL  
 - **Cloud & ML:** AWS Cloud Foundations, AWS Machine Learning Foundations, Generative AI  
-- **Tools:** Git, GitHub, VS Code, Linux  
+- **Tools:** Git, GitHub
 - **Soft Skills:** Leadership, Public Speaking, Blog Writing, Time Management  
 
 ---
