@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" alt="welcome gif">
 </p>
 
@@ -9,94 +9,59 @@
 🎓 **Computer Science Engineering Student (CSE ’27)** at **KL University**  
 💻 Full Stack Developer | Competitive Programmer | Cloud & ML Enthusiast  
 📧 [saurabhklu.ai@gmail.com](mailto:saurabhklu.ai@gmail.com) • 📱 +91 9792453534  
-🔗 [Portfolio](https://wraithklu.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/wraithklu) • [GitHub](https://github.com/Wraith-klu) • [CodeChef](https://www.codechef.com/users/) • [HackerRank](https://www.hackerrank.com/)
+🔗 [Portfolio](https://wraithklu.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/wraithklu) • [GitHub](https://github.com/Wraith-klu) • [LeetCode](https://leetcode.com/u/wraith_sky/) • [Codeforces](https://codeforces.com/profile/wraithklu) • [CodeChef](https://www.codechef.com/users/) • [HackerRank](https://www.hackerrank.com/)  
 
 ---
 
-## 🧠 About Me  
+## 🚀 Technical Skills  
 
-As a passionate and driven Computer Science Engineering student specializing in **AI-driven language technology**, I focus on building impactful digital experiences through **Java Full Stack Development** and **cloud-powered solutions**.  
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 
-- Proficient in **Java, React, Spring Boot, MySQL, Python, JavaScript**  
-- Skilled in **software engineering principles, system design, and problem-solving**  
-- Experienced with **AWS Cloud** & **Machine Learning foundations** (hands-on with EC2, VPC, IAM, SageMaker)  
-- Strong interest in **AI, Generative AI, and scalable applications**  
-- 500+ coding problems solved across **LeetCode, Codeforces, CodeChef, and HackerRank**  
+**Frameworks & Libraries:**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 
-💡 I’m exploring opportunities to contribute to **Full Stack, Cloud, and ML-powered projects** where I can apply my expertise and learn from impactful challenges.  
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
----
-
-## 🛠️ Technical Skills  
-
-- **Languages:** Java, Python, JavaScript, HTML/CSS  
-- **Frameworks:** React.js, Spring Boot  
-- **Databases:** MySQL  
-- **Cloud & ML:** AWS Cloud Foundations, AWS Machine Learning Foundations, Generative AI  
-- **Tools:** Git, GitHub, VS Code, Linux  
-- **Soft Skills:** Leadership, Public Speaking, Blog Writing, Time Management  
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ---
 
-## 🧑‍💻 Experience  
+## 📊 GitHub Stats  
 
-### AWS AI-ML Virtual Internship (Cohort 12)  
-📍 Remote | 🗓️ Apr 2025 – Jun 2025  
-- Completed **AWS Academy Cloud Foundations** and **Machine Learning Foundations**  
-- Built and deployed ML pipelines on **Amazon SageMaker** for computer vision, NLP, and forecasting tasks  
-- Gained hands-on experience with **EC2, IAM, VPC**, and **cloud security best practices**  
-- Applied **Well-Architected Framework principles** in cloud design  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wraith-klu&show_icons=true&theme=tokyonight" alt="Saurabh's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wraith-klu&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
 
 ---
 
-## 🚀 Projects  
+## 🏆 Competitive Programming  
 
-> **Tech Stack:** Java, Spring Boot, React.js, MySQL  
-
-- 📊 [**Pathways – Online Job Application Tracker**](https://pathways-jobsearchengine.vercel.app/)  
-  Full stack platform with secure authentication, admin routes, and RESTful APIs for managing job applications.  
-
-- 🚖 [**Strive Rides – Hackathon Project (Code4Change)**](#)  
-  Ride-booking app with **real-time tracking** built using Spring Boot, MySQL, and ReactJS.  
+- **LeetCode:** [wraith_sky](https://leetcode.com/u/wraith_sky/)  
+- **Codeforces:** [wraithklu](https://codeforces.com/profile/wraithklu)  
+- **CodeChef:** [Profile](https://www.codechef.com/users/)  
+- **HackerRank:** [Profile](https://www.hackerrank.com/)  
 
 ---
 
-## 🏆 Achievements  
+## ✨ A Poetic Touch  
 
-- 🏅 Solved **500+ coding problems** on LeetCode, Codeforces, CodeChef, and HackerRank  
-- 🎖️ Finalist — *Code4Change Hackathon* (The Startup Society, KL University)  
-- 🏏 Former **U-19 Cricket Player** (Lucknow District)  
-- ♟️ Competitive **Chess Player** (Peak rating: 1318)  
+I am not just lines of code I write,  
+But late-night struggles and morning light.  
+A learner who fails, then tries once more,  
+Each bug a lesson, each fix a door.  
 
----
-
-## 📜 Certifications  
-
-- ☁️ **AWS Academy Graduate – Cloud Foundations** (Jun 2025)  
-- 🤖 **AWS Academy Graduate – Machine Learning Foundations** (Jun 2025)  
-- 📘 **Introduction to Artificial Intelligence** — IBM, Coursera (Apr 2025)  
-- 🧮 **Dynamic Programming & Greedy Algorithms** — Univ. of Colorado Boulder (Apr 2025)  
-- 🌱 **Spring - Ecosystem and Core** — LearnQuest, Coursera (Apr 2025)  
-- 📊 **Supervised Machine Learning: Regression** — IBM, Coursera (2025)  
-
----
-
-## 📚 Education  
-
-- 🎓 **B.Tech - Computer Science Engineering (AI-driven language technology)**  
-  KL University, Guntur, Andhra Pradesh | GPA: 9.58  
-  *Jul 2024 – Jun 2027*  
-
----
-
-## 📫 Let’s Connect  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/wraithklu)  
-- 🧑‍💻 [GitHub](https://github.com/Wraith-klu)  
-- 🌐 [Portfolio](https://wraithklu.vercel.app/)  
-- ✉️ [Email](mailto:saurabhklu.ai@gmail.com)  
-
----
-
-> ⚡ _“Code is like poetry; each bug is a misplaced rhyme, and every solution a verse completed.”_  
-
+Dreams are compiled, though errors stay,  
+I debug my path in my own way.  
+Beyond the screen, I seek to be,  
+A builder of hope, through technology.  
