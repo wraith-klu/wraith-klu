@@ -107,12 +107,15 @@ As a passionate and driven Computer Science Engineering student specializing in 
 📜 *Because code is human too...*  
 
 In loops and queries, my journey flows,  
-Through AI’s mind where wisdom grows.💡 
+Through AI’s mind where wisdom grows.💡
+
 Each dataset whispers, patterns unfold,  
 A story of logic, endlessly told.  
 
 From code that builds to dreams that scale,  
-I debug the errors, I ship the tale.   
+I debug the errors, I ship the tale.  
+
 A learner, a builder, with visions untold,  
 Crafting tomorrow in functions of gold.🥇  
+
                                 - Wraith 👻 
