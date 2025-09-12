@@ -106,23 +106,13 @@ As a passionate and driven Computer Science Engineering student specializing in 
 
 📜 *Because code is human too...*  
 
-💡 I am not just lines of code I write,  
-But late-night struggles and morning light.  
-A learner who fails, then tries once more,  
-Each bug a lesson, each fix a door.  
-
-🌌 Dreams are compiled, though errors stay,  
-I debug my path in my own way.  
-💻 Beyond the screen, I seek to be,  
-A builder of hope, through technology.  
-
 In loops and queries, my journey flows,  
-Through AI’s mind where wisdom grows.  
+Through AI’s mind where wisdom grows.💡 
 Each dataset whispers, patterns unfold,  
 A story of logic, endlessly told.  
 
 From code that builds to dreams that scale,  
-I debug the errors, I ship the tale.  
+I debug the errors, I ship the tale.   
 A learner, a builder, with visions untold,  
-Crafting tomorrow in functions of gold.  
+Crafting tomorrow in functions of gold.🥇  
                                 - Wraith 👻 
