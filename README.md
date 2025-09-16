@@ -20,7 +20,7 @@ As a passionate and driven Computer Science Engineering student specializing in 
 - Proficient in **Java, React, Spring Boot, MySQL, Python, JavaScript**  
 - Skilled in **software engineering principles, system design, and problem-solving**  
 - Experienced with **AWS Cloud** & **Machine Learning foundations** (hands-on with EC2, VPC, IAM, SageMaker)  
-- Strong interest in **AI, Generative AI, and scalable applications**  
+- Strong interest in **Machine Learning, Generative AI, and scalable applications**  
 - 500+ coding problems solved across **LeetCode, Codeforces, CodeChef, and HackerRank**  
 
 💡 I’m exploring opportunities to contribute to **Full Stack, Cloud, and ML-powered projects** where I can apply my expertise and learn from impactful challenges.  
