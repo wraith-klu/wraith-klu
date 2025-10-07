@@ -53,7 +53,7 @@ As a passionate and driven Computer Science Engineering student specializing in 
 
 > **Tech Stack:** Java, Spring Boot, React.js, MySQL  
 
-**Nexus Finance Bank – Full Stack Banking App (Oct 2025)**  
+-> **Nexus Finance Bank – Full Stack Banking App (Oct 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL | Docker*  
 
 - Implemented JWT authentication, account management, fund transfers  
@@ -61,7 +61,7 @@ As a passionate and driven Computer Science Engineering student specializing in 
 - Dockerized backend & database for easy deployment  
 **Repo:** [GitHub](https://github.com/wraith-klu/NexusFinanceBank1.git) | **Live:** [Link](https://nexus-finance-bank-frontend-ex4r.vercel.app/)
 
-**Pathways – Online Job Application Tracker (Feb 2025)**  
+-> **Pathways – Online Job Application Tracker (Feb 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL*  
 
 - Role-based access control (user/admin)  
@@ -69,7 +69,7 @@ As a passionate and driven Computer Science Engineering student specializing in 
 - Optimized backend for 100+ concurrent users  
 **Repo:** [GitHub](https://github.com/wraith-klu/Pathway.git) | **Live:** [Link](https://pathways-jobsearchengine.vercel.app/)
 
-**Strive Rides – Hackathon Project (Code4Change)**  
+-> **Strive Rides – Hackathon Project (Code4Change)**  
 *Tech Stack: Spring Boot | MySQL | React.js*  
 
 - Ride-booking app with real-time tracking  
