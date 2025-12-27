@@ -51,7 +51,16 @@ As a passionate and driven Computer Science Engineering student specializing in 
 
 ## 🚀 Projects  
 
-> **Tech Stack:** Java, Spring Boot, React.js, MySQL  
+> **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python
+
+-> 🛡️ ToxiGuard AI – Abuse Detection System (AI Project)
+🧠 Tech Stack: Python | Streamlit | NLP | Machine Learning | Plotly
+
+⚡ Real-time detection of abusive/toxic language with sentiment classification
+🎯 Confidence scoring with abusive keyword highlighting & severity analysis
+📊 Interactive analytics dashboard for NLP insights
+🎨 Clean, scalable UI with custom CSS (production-ready)
+**🔗 Repo:** [GitHub](https://github.com/wraith-klu/Abuse-Detector-Agent.git) | **🌐 Live:** [Link](https://toxiguardagent.streamlit.app/)
 
 -> **Nexus Finance Bank – Full Stack Banking App (Oct 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL | Docker*  
@@ -59,7 +68,7 @@ As a passionate and driven Computer Science Engineering student specializing in 
 - Implemented JWT authentication, account management, fund transfers  
 - Built REST APIs with validation, error handling & layered architecture  
 - Dockerized backend & database for easy deployment  
-**Repo:** [GitHub](https://github.com/wraith-klu/NexusFinanceBank1.git) | **Live:** [Link](https://nexus-finance-bank-frontend-ex4r.vercel.app/)
+**🔗Repo:** [GitHub](https://github.com/wraith-klu/NexusFinanceBank1.git) | **🌐Live:** [Link](https://nexus-finance-bank-frontend-ex4r.vercel.app/)
 
 -> **Pathways – Online Job Application Tracker (Feb 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL*  
@@ -67,7 +76,7 @@ As a passionate and driven Computer Science Engineering student specializing in 
 - Role-based access control (user/admin)  
 - Secure login & registration, REST APIs for job postings & tracking  
 - Optimized backend for 100+ concurrent users  
-**Repo:** [GitHub](https://github.com/wraith-klu/Pathway.git) | **Live:** [Link](https://pathways-jobsearchengine.vercel.app/)
+**🔗Repo:** [GitHub](https://github.com/wraith-klu/Pathway.git) | **🌐Live:** [Link](https://pathways-jobsearchengine.vercel.app/)
 
 -> **Strive Rides – Hackathon Project (Code4Change)**  
 *Tech Stack: Spring Boot | MySQL | React.js*  
