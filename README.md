@@ -51,7 +51,7 @@ As a passionate and driven Computer Science Engineering student specializing in 
 
 ## 🚀 Projects  
 
-> **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python
+> **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python, NLP
 
 -> **🛡️ ToxiGuard AI – Abuse Detection System (AI Project)**
 - *🧠 Tech Stack: Python | Streamlit | NLP | Machine Learning | Plotly*
