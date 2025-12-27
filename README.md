@@ -54,7 +54,7 @@ As a passionate and driven Computer Science Engineering student specializing in 
 > **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python
 
 -> **🛡️ ToxiGuard AI – Abuse Detection System (AI Project)**
-🧠 Tech Stack: Python | Streamlit | NLP | Machine Learning | Plotly
+*🧠 Tech Stack: Python | Streamlit | NLP | Machine Learning | Plotly*
 
 ⚡ Real-time detection of abusive/toxic language with sentiment classification
 🎯 Confidence scoring with abusive keyword highlighting & severity analysis
