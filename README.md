@@ -54,14 +54,13 @@ As a passionate and driven Computer Science Engineering student specializing in 
 > **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python
 
 -> **🛡️ ToxiGuard AI – Abuse Detection System (AI Project)**
-
-*🧠 Tech Stack: Python | Streamlit | NLP | Machine Learning | Plotly*
+- *🧠 Tech Stack: Python | Streamlit | NLP | Machine Learning | Plotly*
 
 - ⚡ Real-time detection of abusive/toxic language with sentiment classification
 - 🎯 Confidence scoring with abusive keyword highlighting & severity analysis
 - 📊 Interactive analytics dashboard for NLP insights
 - 🎨 Clean, scalable UI with custom CSS (production-ready)
-**🔗 Repo:** [GitHub](https://github.com/wraith-klu/Abuse-Detector-Agent.git) | **🌐 Live:** [Link](https://toxiguardagent.streamlit.app/)
+- **🔗 Repo:** [GitHub](https://github.com/wraith-klu/Abuse-Detector-Agent.git) | **🌐 Live:** [Link](https://toxiguardagent.streamlit.app/)
 
 -> **Nexus Finance Bank – Full Stack Banking App (Oct 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL | Docker*  
