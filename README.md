@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi there, I'm <span style="color:#007acc;">Saurabh Singh Yadav</span> 👋</h1>
 
----
 
 🎓 **Computer Science Engineering Student (CSE ’27)** at **KL University**  
 💻 Full Stack Developer | Competitive Programmer | Cloud & ML Enthusiast  
@@ -54,7 +53,6 @@ As a passionate and driven Computer Science Engineering student specializing in 
 > **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python, NLP
 
 
----
 -> **🚨 CodeSentinel AI – Intelligent Code Smell Detection System**
 *Tech Stack: Python | FastAPI | Streamlit | LLM | AST | Machine Learning*
 
