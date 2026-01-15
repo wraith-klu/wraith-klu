@@ -85,10 +85,9 @@ FastAPI Backend
 ▼  
 Deployed on Render Cloud
 ```
--**🔗 Repository:** https://github.com/Wraith-klu/CodeSentinel-Ai
-
--**🌐 Live App:** https://codesentinel.streamlit.app/  
--**⚙ Backend API:** https://codesentinel-ai.onrender.com/
+- **🔗 Repository:** https://github.com/Wraith-klu/CodeSentinel-Ai
+- **🌐 Live App:** https://codesentinel.streamlit.app/  
+- **⚙ Backend API:** https://codesentinel-ai.onrender.com/
 
 ---
 
