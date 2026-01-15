@@ -51,6 +51,10 @@ As a passionate and driven Computer Science Engineering student specializing in 
 
 ## 🚀 Projects  
 
+> **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python, NLP
+
+
+---
 -> **🚨 CodeSentinel AI – Intelligent Code Smell Detection System**
 *Tech Stack: Python | FastAPI | Streamlit | LLM | AST | Machine Learning*
 
@@ -87,8 +91,7 @@ Deployed on Render Cloud
 **🌐 Live App:** https://codesentinel.streamlit.app/  
 **⚙ Backend API:** https://codesentinel-ai.onrender.com/
 
-
-> **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python, NLP
+---
 
 -> **🛡️ ToxiGuard AI – Abuse Detection System (AI Project)**
 - *🧠 Tech Stack: Python | Streamlit | NLP | Machine Learning | Plotly*
@@ -99,6 +102,8 @@ Deployed on Render Cloud
 - 🎨 Clean, scalable UI with custom CSS (production-ready)
 - **🔗 Repo:** [GitHub](https://github.com/wraith-klu/Abuse-Detector-Agent.git) | **🌐 Live:** [Link](https://toxiguardagent.streamlit.app/)
 
+---
+
 -> **Nexus Finance Bank – Full Stack Banking App (Oct 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL | Docker*  
 
@@ -107,6 +112,8 @@ Deployed on Render Cloud
 - Dockerized backend & database for easy deployment  
 **🔗Repo:** [GitHub](https://github.com/wraith-klu/NexusFinanceBank1.git) | **🌐Live:** [Link](https://nexus-finance-bank-frontend-ex4r.vercel.app/)
 
+---
+
 -> **Pathways – Online Job Application Tracker (Feb 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL*  
 
@@ -114,6 +121,8 @@ Deployed on Render Cloud
 - Secure login & registration, REST APIs for job postings & tracking  
 - Optimized backend for 100+ concurrent users  
 **🔗Repo:** [GitHub](https://github.com/wraith-klu/Pathway.git) | **🌐Live:** [Link](https://pathways-jobsearchengine.vercel.app/)
+
+---
 
 -> **Strive Rides – Hackathon Project (Code4Change)**  
 *Tech Stack: Spring Boot | MySQL | React.js*  
