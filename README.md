@@ -51,6 +51,43 @@ As a passionate and driven Computer Science Engineering student specializing in 
 
 ## 🚀 Projects  
 
+-> **🚨 CodeSentinel AI – Intelligent Code Smell Detection System**
+*Tech Stack: Python | FastAPI | Streamlit | LLM | AST | Machine Learning*
+
+- Developed an **AI-powered static code analysis platform** to detect code smells  
+- Implemented **AST-based parsing** for structural code inspection  
+- Integrated **LLM reasoning engine** for intelligent suggestions & fixes  
+- Built **real-time follow-up query system** for deeper code understanding  
+- Added **PDF report generation** for complete analysis export  
+- Deployed scalable backend on **Render** and frontend on **Streamlit Cloud**  
+- Improved code quality by detecting:
+  - Long methods  
+  - Duplicate code  
+  - God classes  
+  - Bad naming practices  
+```
+### 🧠 System Architecture
+
+User  
+│  
+▼  
+Streamlit Frontend  
+│  
+▼  
+FastAPI Backend  
+├── AST Analyzer  
+├── Machine Learning Model  
+├── LLM Engine  
+└── PDF Report Generator  
+│  
+▼  
+Deployed on Render Cloud
+```
+**🔗 Repository:** https://github.com/Wraith-klu/code-smell-agent  
+**🌐 Live App:** https://codesentinel.streamlit.app/  
+**⚙ Backend API:** https://codesentinel-ai.onrender.com/
+
+
 > **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python, NLP
 
 -> **🛡️ ToxiGuard AI – Abuse Detection System (AI Project)**
