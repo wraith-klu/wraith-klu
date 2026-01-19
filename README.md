@@ -54,6 +54,7 @@ As a passionate and driven Computer Science Engineering student specializing in 
 
 
 -> **🚨 CodeSentinel AI – Intelligent Code Smell Detection System**
+
 *Tech Stack: Python | FastAPI | Streamlit | LLM | AST | Machine Learning*
 
 - Developed an **AI-powered static code analysis platform** to detect code smells  
