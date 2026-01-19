@@ -91,14 +91,32 @@ Deployed on Render Cloud
 
 ---
 
--> **🛡️ ToxiGuard AI – Abuse Detection System (AI Project)**
-- *🧠 Tech Stack: Python | Streamlit | NLP | Machine Learning | Plotly*
+🛡️ ToxiGuard AI – Abuse Detection System (AI Project)
 
-- ⚡ Real-time detection of abusive/toxic language with sentiment classification
-- 🎯 Confidence scoring with abusive keyword highlighting & severity analysis
-- 📊 Interactive analytics dashboard for NLP insights
-- 🎨 Clean, scalable UI with custom CSS (production-ready)
-- **🔗 Repo:** [GitHub](https://github.com/wraith-klu/Abuse-Detector-Agent.git) | **🌐 Live:** [Link](https://toxiguardagent.streamlit.app/)
+🧠 Tech Stack:
+Python | FastAPI | React (Vite) | NLP | Machine Learning | OpenRouter LLM | Plotly
+
+Key Capabilities
+```
+⚡ Real-time detection of abusive and toxic language with sentiment classification
+
+🎯 Confidence scoring with abusive keyword highlighting and severity analysis
+
+🤖 Hybrid intelligence: ML model + LLM fallback for contextual moderation
+
+📊 Interactive analytics dashboard (KPIs, charts, word clouds, history, CSV export)
+
+🎨 Premium glassmorphism UI — responsive and production-ready
+
+🚀 Scalable API architecture suitable for cloud deployment
+```
+Links
+
+🔗 Repository: https://github.com/wraith-klu/ToxiGuard-AI
+
+🌐 Live Frontend: https://toxiguard-ai.vercel.app
+
+⚙️ Backend API: https://toxiguard-ai-backend.onrender.com/docs
 
 ---
 
