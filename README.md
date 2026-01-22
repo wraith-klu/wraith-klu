@@ -2,23 +2,46 @@
   <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" alt="welcome gif">
 </p>
 
-<h1 align="center">Hi there, I'm <span style="color:#007acc;">Saurabh Singh Yadav</span> 👋</h1>
+<h1 align="center">
+  Hi there, I'm <span style="color:#007acc;">Saurabh Singh Yadav</span> 👋
+</h1>
 
+<p align="center">
+  🎓 <b>Computer Science Engineering (CSE ’27)</b> @ <b>KL University</b><br>
+  💻 Full Stack Developer • Competitive Programmer • Cloud & ML Enthusiast
+</p>
 
-🎓 **Computer Science Engineering Student (CSE ’27)** at **KL University**  
-💻 Full Stack Developer | Competitive Programmer | Cloud & ML Enthusiast  
-📧 **Email:** [saurabhklu.ai@gmail.com](mailto:saurabhklu.ai@gmail.com)  
-📱 **Phone:** +91 9792453534  
+---
 
-🌐 **Portfolio:** 🔗 [wraithklu.vercel.app](https://wraithklu.vercel.app/)  
-💼 **LinkedIn:** 🔗 [linkedin.com/in/wraithklu](https://www.linkedin.com/in/wraithklu)  
-💻 **GitHub:** 🔗 [github.com/Wraith-klu](https://github.com/Wraith-klu)   
+<p align="center">
+  📧 <a href="mailto:saurabhklu.ai@gmail.com">saurabhklu.ai@gmail.com</a> &nbsp;•&nbsp;
+  📱 +91&nbsp;9792453534
+</p>
 
-🧠 **DSA & Coding Profiles**  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wraith_sky/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/wraithklu)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/wraithklu)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+<p align="center">
+  🌐 <a href="https://wraithklu.vercel.app/">Portfolio</a> &nbsp;•&nbsp;
+  💼 <a href="https://www.linkedin.com/in/wraithklu">LinkedIn</a> &nbsp;•&nbsp;
+  💻 <a href="https://github.com/Wraith-klu">GitHub</a>
+</p>
+
+---
+
+<h3 align="center">🧠 DSA & Competitive Programming</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/u/wraith_sky/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/wraithklu">
+    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/wraithklu">
+    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
 
 ## 🧠 About Me  
