@@ -44,54 +44,90 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 
 <h2 align="center">🛠️ Technical Skills (Project-Based)</h2>
 
-### 🚀 Programming Languages
+---
+
+## 🚀 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
 - **Java** – backend development, REST APIs, authentication, layered architecture  
 - **Python** – ML pipelines, NLP processing, FastAPI backends  
 - **JavaScript** – frontend logic, API integration  
 - **HTML / CSS** – responsive UI development  
 
-### 🧩 Backend & Frameworks
+---
+
+## 🧩 Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
 - **Spring Boot** – RESTful services, JWT authentication, validation, error handling  
 - **FastAPI** – high-performance ML-backed APIs, async endpoints  
 - **React.js (Vite)** – dashboards, analytics views, user workflows  
 
-### 🤖 Machine Learning & AI
+---
+
+## 🤖 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%2300599C.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AST%20Analysis-%23555555.svg?style=for-the-badge"/>
+</p>
+
 - **Classical ML** – text classification, sentiment analysis, feature engineering  
 - **NLP** – toxic language detection, keyword extraction, severity analysis  
 - **LLMs** – reasoning-based analysis, AI suggestions, fallback moderation  
 - **AST-based Analysis** – static code inspection for code smell detection  
 
-### 🗄️ Databases
+---
+
+## 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
 - **MySQL** – schema design, joins, indexing, transactional workflows  
 
-### ☁️ Cloud & Deployment
+---
+
+## ☁️ Cloud & Deployment
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
 - **AWS** – EC2, IAM, VPC, SageMaker (hands-on via projects & internship)  
 - **Render** – backend API deployment  
 - **Streamlit Cloud / Vercel** – frontend deployment  
 - **Docker** – containerized backend & database setup  
 
-### 🧰 Tools & Practices
+---
+
+## 🧰 Tools & Practices
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-%23007ACC.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-%23666666.svg?style=for-the-badge"/>
+</p>
+
 - **Git & GitHub** – version control, collaboration  
 - **REST API Design** – clean endpoints, validation, documentation  
 - **System Design Basics** – modular services, scalability considerations  
 
-
-<h3 align="center">🧠 DSA & Competitive Programming</h3>
-
-<p align="center">
-  <a href="https://leetcode.com/u/wraith_sky/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://codeforces.com/profile/wraithklu">
-    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/wraithklu">
-    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
 
 
 ---
