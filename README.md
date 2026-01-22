@@ -43,7 +43,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 
 <h2 align="center">🛠️ Technical Skills (Project-Based)</h2>
 
----
 
 ## 🚀 Programming Languages
 <p>
@@ -59,7 +58,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 - **JavaScript** – frontend logic, API integration  
 - **HTML / CSS** – responsive UI development  
 
----
 
 ## 🧩 Backend & Frameworks
 <p>
@@ -73,7 +71,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 - **FastAPI** – high-performance ML-backed APIs, async endpoints  
 - **React.js (Vite)** – dashboards, analytics views, user workflows  
 
----
 
 ## 🤖 Machine Learning & AI
 <p>
@@ -88,7 +85,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 - **LLMs** – reasoning-based analysis, AI suggestions, fallback moderation  
 - **AST-based Analysis** – static code inspection for code smell detection  
 
----
 
 ## 🗄️ Databases
 <p>
@@ -97,7 +93,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 
 - **MySQL** – schema design, joins, indexing, transactional workflows  
 
----
 
 ## ☁️ Cloud & Deployment
 <p>
@@ -113,7 +108,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 - **Streamlit Cloud / Vercel** – frontend deployment  
 - **Docker** – containerized backend & database setup  
 
----
 
 ## 🧰 Tools & Practices
 <p>
@@ -128,8 +122,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 - **System Design Basics** – modular services, scalability considerations  
 
 
-
----
 
 ## 🧑‍💻 Experience  
 
