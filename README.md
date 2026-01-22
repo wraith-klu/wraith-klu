@@ -1,6 +1,3 @@
-<p align="center"> 
-  <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" alt="welcome gif">
-</p>
 
 <p align="center"> 
   <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" alt="welcome gif">
@@ -28,7 +25,6 @@
   💻 <a href="https://github.com/Wraith-klu">GitHub</a>
 </p>
 
----
 
 <h2 align="center">🧠 About Me</h2>
 
@@ -45,7 +41,6 @@ Alongside development, I actively practice **DSA and competitive programming**, 
 
 My current focus is growing as an **ML-oriented backend / full stack developer**, with long-term goals in **AI systems, LLM applications, and scalable cloud deployments**.
 
----
 
 <h2 align="center">🛠️ Technical Skills (Project-Based)</h2>
 
@@ -80,7 +75,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 - **REST API Design** – clean endpoints, validation, documentation  
 - **System Design Basics** – modular services, scalability considerations  
 
----
 
 <h3 align="center">🧠 DSA & Competitive Programming</h3>
 
