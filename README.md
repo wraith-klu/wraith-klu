@@ -12,7 +12,6 @@
   💻 ML & AI Enthusiast • Backend & Full Stack Developer • Competitive Programmer
 </p>
 
----
 
 <p align="center">
   📧 <a href="mailto:saurabhklu.ai@gmail.com">saurabhklu.ai@gmail.com</a> &nbsp;•&nbsp;
