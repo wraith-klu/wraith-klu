@@ -2,13 +2,17 @@
   <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" alt="welcome gif">
 </p>
 
+<p align="center"> 
+  <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" alt="welcome gif">
+</p>
+
 <h1 align="center">
   Hi there, I'm <span style="color:#007acc;">Saurabh Singh Yadav</span> 👋
 </h1>
 
 <p align="center">
   🎓 <b>Computer Science Engineering (CSE ’27)</b> @ <b>KL University</b><br>
-  💻 Full Stack Developer • Competitive Programmer • Cloud & ML Enthusiast
+  💻 ML & AI Enthusiast • Backend & Full Stack Developer • Competitive Programmer
 </p>
 
 ---
@@ -23,6 +27,58 @@
   💼 <a href="https://www.linkedin.com/in/wraithklu">LinkedIn</a> &nbsp;•&nbsp;
   💻 <a href="https://github.com/Wraith-klu">GitHub</a>
 </p>
+
+---
+
+<h2 align="center">🧠 About Me</h2>
+
+I’m a **Computer Science Engineering (CSE ’27)** student with a strong interest in **Machine Learning, AI-powered systems, and backend-heavy full stack development**.
+
+I prefer learning by **building real products** — designing APIs, integrating ML models, handling data pipelines, and deploying applications to the cloud. I enjoy working on problems where **software engineering meets intelligence**, turning models into scalable, real-world systems.
+
+My recent work includes:
+- An **AI-powered code smell detection platform** using AST analysis, ML models, and LLM reasoning  
+- A **toxic content detection system** combining NLP, ML, and LLM-based moderation  
+- Multiple **full stack applications** using Spring Boot, React, and MySQL, following clean architecture and security best practices  
+
+Alongside development, I actively practice **DSA and competitive programming**, which helps me write efficient, structured, and reliable code.
+
+My current focus is growing as an **ML-oriented backend / full stack developer**, with long-term goals in **AI systems, LLM applications, and scalable cloud deployments**.
+
+---
+
+<h2 align="center">🛠️ Technical Skills (Project-Based)</h2>
+
+### 🚀 Programming Languages
+- **Java** – backend development, REST APIs, authentication, layered architecture  
+- **Python** – ML pipelines, NLP processing, FastAPI backends  
+- **JavaScript** – frontend logic, API integration  
+- **HTML / CSS** – responsive UI development  
+
+### 🧩 Backend & Frameworks
+- **Spring Boot** – RESTful services, JWT authentication, validation, error handling  
+- **FastAPI** – high-performance ML-backed APIs, async endpoints  
+- **React.js (Vite)** – dashboards, analytics views, user workflows  
+
+### 🤖 Machine Learning & AI
+- **Classical ML** – text classification, sentiment analysis, feature engineering  
+- **NLP** – toxic language detection, keyword extraction, severity analysis  
+- **LLMs** – reasoning-based analysis, AI suggestions, fallback moderation  
+- **AST-based Analysis** – static code inspection for code smell detection  
+
+### 🗄️ Databases
+- **MySQL** – schema design, joins, indexing, transactional workflows  
+
+### ☁️ Cloud & Deployment
+- **AWS** – EC2, IAM, VPC, SageMaker (hands-on via projects & internship)  
+- **Render** – backend API deployment  
+- **Streamlit Cloud / Vercel** – frontend deployment  
+- **Docker** – containerized backend & database setup  
+
+### 🧰 Tools & Practices
+- **Git & GitHub** – version control, collaboration  
+- **REST API Design** – clean endpoints, validation, documentation  
+- **System Design Basics** – modular services, scalability considerations  
 
 ---
 
@@ -43,29 +99,6 @@
   </a>
 </p>
 
-
-## 🧠 About Me  
-
-As a passionate and driven Computer Science Engineering student specializing in **AI-driven language technology**, I focus on building impactful digital experiences through **Java Full Stack Development** and **cloud-powered solutions**.  
-
-- Proficient in **Java, React, Spring Boot, MySQL, Python, JavaScript**  
-- Skilled in **software engineering principles, system design, and problem-solving**  
-- Experienced with **AWS Cloud** & **Machine Learning foundations** (hands-on with EC2, VPC, IAM, SageMaker)  
-- Strong interest in **Machine Learning, Generative AI, and scalable applications**  
-- 500+ coding problems solved across **LeetCode, Codeforces, CodeChef, and HackerRank**  
-
-💡 I’m exploring opportunities to contribute to **Full Stack, Cloud, and ML-powered projects** where I can apply my expertise and learn from impactful challenges.  
-
----
-
-## 🛠️ Technical Skills  
-
-- **Languages:** Java, Python, JavaScript, HTML/CSS  
-- **Frameworks:** React.js, Spring Boot  
-- **Databases:** MySQL  
-- **Cloud & ML:** AWS Cloud Foundations, AWS Machine Learning Foundations, Generative AI  
-- **Tools:** Git, GitHub
-- **Soft Skills:** Leadership, Public Speaking, Blog Writing, Time Management  
 
 ---
 
