@@ -7,8 +7,12 @@
 
 🎓 **Computer Science Engineering Student (CSE ’27)** at **KL University**  
 💻 Full Stack Developer | Competitive Programmer | Cloud & ML Enthusiast  
-📧 [saurabhklu.ai@gmail.com](mailto:saurabhklu.ai@gmail.com) • 📱 +91 9792453534  
-🔗 [Portfolio](https://wraithklu.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/wraithklu) • [GitHub](https://github.com/Wraith-klu) • [LeetCode](https://leetcode.com/u/wraith_sky/) • [Codeforces](https://codeforces.com/profile/wraithklu?csrf_token=398f0bbd31d6ead4332be40fe46955cf) • [CodeChef](https://www.codechef.com/users/) • [HackerRank](https://www.hackerrank.com/) 
+📧 **Email:** [saurabhklu.ai@gmail.com](mailto:saurabhklu.ai@gmail.com)  
+📱 **Phone:** +91 9792453534  
+
+🌐 **Portfolio:** 🔗 [wraithklu.vercel.app](https://wraithklu.vercel.app/)  
+💼 **LinkedIn:** 🔗 [linkedin.com/in/wraithklu](https://www.linkedin.com/in/wraithklu)  
+💻 **GitHub:** 🔗 [github.com/Wraith-klu](https://github.com/Wraith-klu)   
 
 🧠 **DSA & Coding Profiles**  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wraith_sky/)
