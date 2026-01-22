@@ -10,13 +10,7 @@
 📧 [saurabhklu.ai@gmail.com](mailto:saurabhklu.ai@gmail.com) • 📱 +91 9792453534  
 🔗 [Portfolio](https://wraithklu.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/wraithklu) • [GitHub](https://github.com/Wraith-klu) • [LeetCode](https://leetcode.com/u/wraith_sky/) • [Codeforces](https://codeforces.com/profile/wraithklu?csrf_token=398f0bbd31d6ead4332be40fe46955cf) • [CodeChef](https://www.codechef.com/users/) • [HackerRank](https://www.hackerrank.com/) 
 
-• [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wraith_sky/)
-
-• [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/wraithklu)
-
-• [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/wraithklu)
-
-• [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+• [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wraith_sky/) • [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/wraithklu) • [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/wraithklu) • [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 
 ---
 
