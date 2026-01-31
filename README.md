@@ -23,14 +23,6 @@
 - 💻 **GitHub:** [github.com/Wraith-klu](https://github.com/Wraith-klu)
 
 
-## 📚 Education  
-
-- 🎓 **B.Tech - Computer Science Engineering (AI-driven language technology)**  
-  KL University, Guntur, Andhra Pradesh | GPA: 9.61
-  *Jul 2024 – Jun 2027*
-
----
-
   
 ### 🧠 DSA & Competitive Programming
 
@@ -58,6 +50,14 @@
 - Model deployment & inference pipelines
 - AI-assisted developer tools
 
+
+## 📚 Education  
+
+- 🎓 **B.Tech - Computer Science Engineering (AI-driven language technology)**  
+  KL University, Guntur, Andhra Pradesh | GPA: 9.61
+  *Jul 2024 – Jun 2027*
+
+---
 
 <h2 align="center">🧠 About Me</h2>
 
