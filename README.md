@@ -22,7 +22,15 @@
 - 💼 **LinkedIn:** [linkedin.com/in/wraithklu](https://www.linkedin.com/in/wraithklu)  
 - 💻 **GitHub:** [github.com/Wraith-klu](https://github.com/Wraith-klu)
 
+---
 
+## 📚 Education  
+
+- 🎓 **B.Tech - Computer Science Engineering (AI-driven language technology)**  
+  KL University, Guntur, Andhra Pradesh | GPA: 9.61
+  *Jul 2024 – Jun 2027*
+
+  
 ### 🧠 DSA & Competitive Programming
 
 <p align="center">
@@ -277,13 +285,6 @@ Links
 - 🌱 **Spring - Ecosystem and Core** — LearnQuest, Coursera (Apr 2025)  
 - 📊 **Supervised Machine Learning: Regression** — IBM, Coursera (2025)  
 
----
-
-## 📚 Education  
-
-- 🎓 **B.Tech - Computer Science Engineering (AI-driven language technology)**  
-  KL University, Guntur, Andhra Pradesh | GPA: 9.58  
-  *Jul 2024 – Jun 2027*  
 
 ---
 
