@@ -57,7 +57,6 @@
   KL University, Guntur, Andhra Pradesh | GPA: 9.61
   *Jul 2024 – Jun 2027*
 
----
 
 <h2 align="center">🧠 About Me</h2>
 
