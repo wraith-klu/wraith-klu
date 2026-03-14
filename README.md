@@ -207,7 +207,7 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 > **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python, NLP
 
 
--> **🚨 CodeSentinel AI – Intelligent Code Smell Detection System**
+1-  **🚨 CodeSentinel AI – Intelligent Code Smell Detection System**
 
 *Tech Stack: Python | FastAPI | Streamlit | LLM | AST | Machine Learning*
 
