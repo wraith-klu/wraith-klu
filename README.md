@@ -76,84 +76,108 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 
 <h2 align="center">🛠️ Technical Skills (Project-Based)</h2>
 
-
 ## 🚀 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
 </p>
 
-- **Java** – backend development, REST APIs, authentication, layered architecture  
-- **Python** – ML pipelines, NLP processing, FastAPI backends  
-- **JavaScript** – frontend logic, API integration  
-- **HTML / CSS** – responsive UI development  
-
+---
 
 ## 🧩 Backend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+  <a href="https://vitejs.dev/">
+    <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+  </a>
 </p>
 
-- **Spring Boot** – RESTful services, JWT authentication, validation, error handling  
-- **FastAPI** – high-performance ML-backed APIs, async endpoints  
-- **React.js (Vite)** – dashboards, analytics views, user workflows  
-
+---
 
 ## 🤖 Machine Learning & AI
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%2300599C.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AST%20Analysis-%23555555.svg?style=for-the-badge"/>
+  <a href="https://en.wikipedia.org/wiki/Machine_learning">
+    <img src="https://img.shields.io/badge/Machine%20Learning-%2300599C.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing">
+    <img src="https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+  <a href="https://openai.com/">
+    <img src="https://img.shields.io/badge/LLMs-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Abstract_syntax_tree">
+    <img src="https://img.shields.io/badge/AST%20Analysis-%23555555.svg?style=for-the-badge"/>
+  </a>
 </p>
 
-- **Classical ML** – text classification, sentiment analysis, feature engineering  
-- **NLP** – toxic language detection, keyword extraction, severity analysis  
-- **LLMs** – reasoning-based analysis, AI suggestions, fallback moderation  
-- **AST-based Analysis** – static code inspection for code smell detection  
-
+---
 
 ## 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
 </p>
 
-- **MySQL** – schema design, joins, indexing, transactional workflows  
-
+---
 
 ## ☁️ Cloud & Deployment
 <p>
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+  <a href="https://render.com/">
+    <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white"/>
+  </a>
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
 </p>
 
-- **AWS** – EC2, IAM, VPC, SageMaker (hands-on via projects & internship)  
-- **Render** – backend API deployment  
-- **Streamlit Cloud / Vercel** – frontend deployment  
-- **Docker** – containerized backend & database setup  
-
+---
 
 ## 🧰 Tools & Practices
 <p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-%23007ACC.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-%23666666.svg?style=for-the-badge"/>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://restfulapi.net/">
+    <img src="https://img.shields.io/badge/REST%20APIs-%23007ACC.svg?style=for-the-badge"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/System_design">
+    <img src="https://img.shields.io/badge/System%20Design-%23666666.svg?style=for-the-badge"/>
+  </a>
 </p>
-
-- **Git & GitHub** – version control, collaboration  
-- **REST API Design** – clean endpoints, validation, documentation  
-- **System Design Basics** – modular services, scalability considerations  
-
 
 
 ## 🧑‍💻 Experience  
@@ -299,22 +323,3 @@ Links
 - 🏆 [HackerRank](https://www.hackerrank.com/)  
 - ✉️ [Email](mailto:saurabhklu.ai@gmail.com)  
 
----
-
-## ✨ A Poetic Touch  
-
-📜 *Because code is human too...*  
-
-In loops and queries, my journey flows,  
-Through AI’s mind where wisdom grows.💡
-
-Each dataset whispers, patterns unfold,  
-A story of logic, endlessly told.  
-
-From code that builds to dreams that scale,  
-I debug the errors, I ship the tale.  
-
-A learner, a builder, with visions untold,  
-Crafting tomorrow in functions of gold.🥇  
-
-                                - Wraith 👻 
