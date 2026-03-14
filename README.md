@@ -95,8 +95,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
   </a>
 </p>
 
----
-
 ## 🧩 Backend & Frameworks
 <p>
   <a href="https://spring.io/projects/spring-boot">
@@ -113,7 +111,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
   </a>
 </p>
 
----
 
 ## 🤖 Machine Learning & AI
 <p>
@@ -131,7 +128,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
   </a>
 </p>
 
----
 
 ## 🗄️ Databases
 <p>
@@ -140,7 +136,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
   </a>
 </p>
 
----
 
 ## ☁️ Cloud & Deployment
 <p>
@@ -161,7 +156,6 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
   </a>
 </p>
 
----
 
 ## 🧰 Tools & Practices
 <p>
@@ -200,35 +194,8 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 
 *Tech Stack: Python | FastAPI | Streamlit | LLM | AST | Machine Learning*
 
-- Developed an **AI-powered static code analysis platform** to detect code smells  
-- Implemented **AST-based parsing** for structural code inspection  
-- Integrated **LLM reasoning engine** for intelligent suggestions & fixes  
-- Built **real-time follow-up query system** for deeper code understanding  
-- Added **PDF report generation** for complete analysis export  
-- Deployed scalable backend on **Render** and frontend on **Streamlit Cloud**  
-- Improved code quality by detecting:
-  - Long methods  
-  - Duplicate code  
-  - God classes  
-  - Bad naming practices  
-```
-### 🧠 System Architecture
+- Developed an AI-powered static code analysis platform using AST parsing and LLM reasoning to detect code smells (long methods, duplicate code, god classes, bad naming) with real-time queries, PDF reports, and cloud deployment (Render + Streamlit).
 
-User  
-│  
-▼  
-Streamlit Frontend  
-│  
-▼  
-FastAPI Backend  
-├── AST Analyzer  
-├── Machine Learning Model  
-├── LLM Engine  
-└── PDF Report Generator  
-│  
-▼  
-Deployed on Render Cloud
-```
 - **🔗 Repository:** https://github.com/Wraith-klu/CodeSentinel-Ai
 - **🌐 Live App:** https://codesentinel.streamlit.app/  
 - **⚙ Backend API:** https://codesentinel-ai.onrender.com/
@@ -240,20 +207,7 @@ Deployed on Render Cloud
 🧠 Tech Stack:
 Python | FastAPI | React (Vite) | NLP | Machine Learning | OpenRouter LLM | Plotly
 
-Key Capabilities
-```
-⚡ Real-time detection of abusive and toxic language with sentiment classification
-
-🎯 Confidence scoring with abusive keyword highlighting and severity analysis
-
-🤖 Hybrid intelligence: ML model + LLM fallback for contextual moderation
-
-📊 Interactive analytics dashboard (KPIs, charts, word clouds, history, CSV export)
-
-🎨 Premium glassmorphism UI — responsive and production-ready
-
-🚀 Scalable API architecture suitable for cloud deployment
-```
+- AI-powered toxic language detection platform with hybrid ML+LLM moderation, real-time analysis, interactive analytics dashboard, and scalable cloud-ready architecture.
 Links
 
 🔗 Repository: https://github.com/wraith-klu/ToxiGuard-AI
@@ -267,9 +221,8 @@ Links
 -> **Nexus Finance Bank – Full Stack Banking App (Oct 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL | Docker*  
 
-- Implemented JWT authentication, account management, fund transfers  
-- Built REST APIs with validation, error handling & layered architecture  
-- Dockerized backend & database for easy deployment  
+- Secure backend system with JWT authentication, REST APIs, account management, fund transfers, and Dockerized deployment.
+
 **🔗Repo:** [GitHub](https://github.com/wraith-klu/NexusFinanceBank1.git) | **🌐Live:** [Link](https://nexus-finance-bank-frontend-ex4r.vercel.app/)
 
 ---
@@ -277,9 +230,8 @@ Links
 -> **Pathways – Online Job Application Tracker (Feb 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL*  
 
-- Role-based access control (user/admin)  
-- Secure login & registration, REST APIs for job postings & tracking  
-- Optimized backend for 100+ concurrent users  
+-Role-based job portal backend with secure authentication, REST APIs for job management, and optimized performance for concurrent users.
+
 **🔗Repo:** [GitHub](https://github.com/wraith-klu/Pathway.git) | **🌐Live:** [Link](https://pathways-jobsearchengine.vercel.app/)
 
 ---
