@@ -244,7 +244,7 @@ Links
 ### **Pathways – Online Job Application Tracker (Feb 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL*  
 
--Role-based job portal backend with secure authentication, REST APIs for job management, and optimized performance for concurrent users.
+- Role-based job portal backend with secure authentication, REST APIs for job management, and optimized performance for concurrent users.
 
 **🔗Repo:** [GitHub](https://github.com/wraith-klu/Pathway.git) | **🌐Live:** [Link](https://pathways-jobsearchengine.vercel.app/)
 
