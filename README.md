@@ -202,12 +202,12 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 - Applied **Well-Architected Framework principles** in cloud design  
 
 
-### 🚀 Projects  
+## 🚀 Projects  
 
 > **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python, NLP
 
 
-##  **🚨 CodeSentinel AI – Intelligent Code Smell Detection System**
+###  **🚨 CodeSentinel AI – Intelligent Code Smell Detection System**
 
 *Tech Stack: Python | FastAPI | Streamlit | LLM | AST | Machine Learning*
 
@@ -218,7 +218,7 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 - **⚙ Backend API:** https://codesentinel-ai.onrender.com/
 
 
-**🛡️ ToxiGuard AI – Abuse Detection System (AI Project)**
+### **🛡️ ToxiGuard AI – Abuse Detection System (AI Project)**
 
 🧠 Tech Stack:
 Python | FastAPI | React (Vite) | NLP | Machine Learning | OpenRouter LLM | Plotly
@@ -233,7 +233,7 @@ Links
 ⚙️ Backend API: https://toxiguard-ai-backend.onrender.com/docs
 
 
--> **Nexus Finance Bank – Full Stack Banking App (Oct 2025)**  
+### **Nexus Finance Bank – Full Stack Banking App (Oct 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL | Docker*  
 
 - Secure backend system with JWT authentication, REST APIs, account management, fund transfers, and Dockerized deployment.
@@ -241,18 +241,12 @@ Links
 **🔗Repo:** [GitHub](https://github.com/wraith-klu/NexusFinanceBank1.git) | **🌐Live:** [Link](https://nexus-finance-bank-frontend-ex4r.vercel.app/)
 
 
--> **Pathways – Online Job Application Tracker (Feb 2025)**  
+### **Pathways – Online Job Application Tracker (Feb 2025)**  
 *Tech Stack: React.js | Spring Boot | MySQL*  
 
 -Role-based job portal backend with secure authentication, REST APIs for job management, and optimized performance for concurrent users.
 
 **🔗Repo:** [GitHub](https://github.com/wraith-klu/Pathway.git) | **🌐Live:** [Link](https://pathways-jobsearchengine.vercel.app/)
-
-
--> **Strive Rides – Hackathon Project (Code4Change)**  
-*Tech Stack: Spring Boot | MySQL | React.js*  
-
-- Ride-booking app with real-time tracking  
 
 
 ## 🏆 Achievements  
