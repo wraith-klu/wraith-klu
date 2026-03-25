@@ -266,16 +266,3 @@ Links
 - 🌱 **Spring - Ecosystem and Core** — LearnQuest, Coursera (Apr 2025)  
 - 📊 **Supervised Machine Learning: Regression** — IBM, Coursera (2025)  
 
-
-
-## 📫 Let’s Connect  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/wraithklu)  
-- 🧑‍💻 [GitHub](https://github.com/Wraith-klu)  
-- 🌐 [Portfolio](https://wraithklu.vercel.app/)  
-- 🧮 [LeetCode](https://leetcode.com/u/wraith_sky/)  
-- ⚡ [Codeforces](https://codeforces.com/profile/wraithklu?csrf_token=398f0bbd31d6ead4332be40fe46955cf)  
-- 🍴 [CodeChef](https://www.codechef.com/users/)  
-- 🏆 [HackerRank](https://www.hackerrank.com/)  
-- ✉️ [Email](mailto:saurabhklu.ai@gmail.com)  
-
