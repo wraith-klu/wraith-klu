@@ -204,18 +204,8 @@ My current focus is growing as an **ML-oriented backend / full stack developer**
 
 ## 🚀 Projects  
 
-> **Tech Stack:** Java, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python, NLP
+> **Tech Stack:** Java, FastAPI, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python, NLP, Sentiment Analysis, LLMs
 
-
-###  **🚨 CodeSentinel AI – Intelligent Code Smell Detection System**
-
-*Tech Stack: Python | FastAPI | Streamlit | LLM | AST | Machine Learning*
-
-- Developed an AI-powered static code analysis platform using AST parsing and LLM reasoning to detect code smells (long methods, duplicate code, god classes, bad naming) with real-time queries, PDF reports, and cloud deployment (Render + Streamlit).
-
-- **🔗 Repository:** https://github.com/Wraith-klu/CodeSentinel-Ai
-- **🌐 Live App:** https://codesentinel.streamlit.app/  
-- **⚙ Backend API:** https://codesentinel-ai.onrender.com/
 
 
 ### **🛡️ ToxiGuard AI – Abuse Detection System (AI Project)**
@@ -231,30 +221,6 @@ Links
 🌐 Live Frontend: https://toxiguard-ai.vercel.app
 
 ⚙️ Backend API: https://toxiguard-ai-backend.onrender.com/docs
-
-
-### **Nexus Finance Bank – Full Stack Banking App (Oct 2025)**  
-*Tech Stack: React.js | Spring Boot | MySQL | Docker*  
-
-- Secure backend system with JWT authentication, REST APIs, account management, fund transfers, and Dockerized deployment.
-
-**🔗Repo:** [GitHub](https://github.com/wraith-klu/NexusFinanceBank1.git) | **🌐Live:** [Link](https://nexus-finance-bank-frontend-ex4r.vercel.app/)
-
-
-### **Pathways – Online Job Application Tracker (Feb 2025)**  
-*Tech Stack: React.js | Spring Boot | MySQL*  
-
-- Role-based job portal backend with secure authentication, REST APIs for job management, and optimized performance for concurrent users.
-
-**🔗Repo:** [GitHub](https://github.com/wraith-klu/Pathway.git) | **🌐Live:** [Link](https://pathways-jobsearchengine.vercel.app/)
-
-
-## 🏆 Achievements  
-
-- 🏅 Solved **500+ coding problems** on LeetCode, Codeforces, CodeChef, and HackerRank  
-- 🎖️ Finalist — *Code4Change Hackathon* (The Startup Society, KL University)  
-- 🏏 Former **U-19 Cricket Player** (Lucknow District)  
-- ♟️ Competitive **Chess Player** (Peak rating: 1318)  
 
 
 ## 📜 Certifications  
