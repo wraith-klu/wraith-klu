@@ -14,221 +14,359 @@
 
 
 
-### 🔗 Connect With Me
-
-- 📧 **Email:** [saurabhklu.ai@gmail.com](mailto:saurabhklu.ai@gmail.com)  
-- 📱 **Phone:** +91 9792453534  
-- 🌐 **Portfolio:** [wraithklu.vercel.app](https://wraithklu.vercel.app)  
-- 💼 **LinkedIn:** [linkedin.com/in/wraithklu](https://www.linkedin.com/in/wraithklu)  
-- 💻 **GitHub:** [github.com/Wraith-klu](https://github.com/Wraith-klu)
 
 
-  
-### 🧠 DSA & Competitive Programming
+
+
+<div align="center">
+
+# Saurabh Yadav
+
+### AI Systems Engineer • Backend Developer • ML Product Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Production+AI+Systems;Engineering+Scalable+Backend+Architectures;Turning+Research+into+Real+Products;Designing+Intelligent+Developer+Tools" />
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Science undergraduate specializing in **AI-Driven Language Technology**, focused on building intelligent software systems that solve real-world problems.
+
+My interests lie at the intersection of:
+
+* Artificial Intelligence & LLM Applications
+* Backend Engineering & Distributed Systems
+* Machine Learning Infrastructure
+* Cloud Deployment & MLOps
+* Developer Productivity Tools
+
+I enjoy designing systems that combine robust software engineering with machine intelligence—whether it's a content moderation platform, code analysis engine, or scalable AI backend.
+
+---
+
+## Engineering Snapshot
+
+```yaml
+Name: Saurabh Yadav
+Role: AI Systems Engineer
+
+Education:
+  Degree: B.Tech Computer Science & Engineering
+  Specialization: AI-Driven Language Technology
+  University: KL University
+  Graduation: 2027
+
+Core Focus:
+  - AI Systems Engineering
+  - Backend Development
+  - Machine Learning Infrastructure
+  - System Design
+  - Cloud Deployment
+
+Achievements:
+  - Top 1% Academic Performer
+  - CGPA: 9.61 / 10
+  - 500+ DSA Problems Solved
+  - Multiple Production AI Systems Deployed
+
+Currently Exploring:
+  - Agentic AI Systems
+  - Advanced MLOps
+  - Distributed Architectures
+  - Efficient LLM Inference
+```
+
+---
+
+## GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wraith-klu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wraith-klu&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wraith-klu&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Technology Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql" />
+</p>
+
+### AI & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="center">
+
+`Scikit-Learn` • `NLP` • `LLMs` • `RAG` • `Prompt Engineering`
+• `Vector Search` • `Model Evaluation`
+
+</p>
+
+### Backend & APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
+
+### Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" />
+</p>
+
+---
+
+# Featured Projects
+
+## ToxiGuard AI
+
+### Real-Time Content Moderation Platform
+
+A production-ready moderation engine designed to balance **accuracy, latency, and operational cost**.
+
+### Architecture
+
+```text
+User Content
+      │
+      ▼
+Regex Layer (<1ms)
+      │
+      ▼
+ML Classifier (~20ms)
+      │
+      ▼
+Confidence Routing
+      │
+      ▼
+LLM Reasoning (~600ms)
+      │
+      ▼
+Moderation Decision
+```
+
+### Key Results
+
+* 94% accuracy on Jigsaw Toxicity Dataset
+* 150K+ training examples
+* 30% reduction in moderation latency
+* 40% reduction in manual review workload
+* Chrome Extension supporting 8+ social platforms
+
+### Stack
+
+`FastAPI` • `React` • `Scikit-Learn`
+`OpenRouter` • `Chrome Extension`
+`Plotly` • `Python`
+
+**Links**
+
+* GitHub: https://github.com/wraith-klu/ToxiGuard-AI
+* Demo: https://toxiguard-ai.vercel.app
+* API: https://toxiguard-ai-backend.onrender.com/docs
+
+---
+
+## Rigel AI
+
+### Intelligent Code Analysis Engine
+
+An AI-powered platform that combines static analysis, machine learning, and LLM reasoning to identify code quality issues.
+
+### Features
+
+* AST-based source code parsing
+* Automatic code smell detection
+* Interactive AI-assisted code review
+* Refactoring recommendations
+* PDF report generation
+* Multi-turn code analysis chat
+
+### Impact
+
+* 15+ code smell categories detected
+* 25% precision improvement through hybrid analysis
+* Automated code quality assessment workflow
+
+### Stack
+
+`Python`
+`FastAPI`
+`React`
+`AST Analysis`
+`Machine Learning`
+`OpenRouter`
+
+**Links**
+
+* GitHub: https://github.com/Wraith-klu/CodeSentinel-Ai
+* Demo: https://rigelai-agent.vercel.app
+
+---
+
+## AWS AI/ML Internship Projects
+
+Completed an intensive 10-week AWS Academy internship focused on machine learning engineering and cloud deployment.
+
+### Sentiment Analysis System
+
+* NLP-based review classification
+* 88% Accuracy
+* 10K+ review dataset
+
+### Mine vs Rock Classification
+
+* Sonar signal prediction
+* SVM + Random Forest Ensemble
+* 85% Accuracy
+
+### MNIST Digit Recognition
+
+* Deep Neural Network
+* TensorFlow/Keras
+* 97% Accuracy
+
+### Skills Gained
+
+* AWS SageMaker
+* Model Deployment
+* MLOps Fundamentals
+* Cloud Security
+* Data Pipelines
+
+---
+
+## Achievements
+
+### Academic Excellence
+
+* Top 1% of Computer Science Department
+* CGPA: 9.61 / 10
+* Consistent Academic Distinction
+
+### Competitive Programming
+
+* 500+ DSA Problems Solved
+* Active on LeetCode, Codeforces, CodeChef
+* Strong focus on Algorithms and Optimization
+
+### Engineering Impact
+
+* Multiple AI products deployed
+* Full-stack ownership from development to deployment
+* Experience building production-ready systems
+
+---
+
+## Education
+
+### Bachelor of Technology
+
+**Computer Science & Engineering**
+
+**KL University**
+Guntur, Andhra Pradesh
+
+**Specialization**
+AI-Driven Language Technology
+
+**Duration**
+2024 – 2027
+
+**Relevant Coursework**
+
+* Machine Learning
+* Deep Learning
+* NLP
+* Data Structures & Algorithms
+* Database Systems
+* Software Engineering
+* System Design
+
+---
+
+## Current Focus
+
+```text
+Building:
+├── AI-powered developer tools
+├── Production-ready ML systems
+├── Backend architectures
+└── Open-source engineering projects
+
+Learning:
+├── Agentic AI
+├── MLOps
+├── Distributed Systems
+└── Advanced System Design
+```
+
+---
+
+## Engineering Principles
+
+> Build products, not demos.
+
+> Performance is a feature.
+
+> Simplicity scales better than complexity.
+
+> AI creates value only when integrated into reliable systems.
+
+> Great software combines engineering rigor with user empathy.
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/wraithklu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Wraith-klu">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://wraithklu.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:saurabhklu.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
   <a href="https://leetcode.com/u/wraith_sky/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://codeforces.com/profile/wraithklu">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/wraithklu">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
 </p>
 
+---
 
-### 🤖 ML & AI Interests
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wraith-klu&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
-- Machine Learning (Supervised & Unsupervised)
-- Natural Language Processing (NLP)
-- LLM-powered applications & agents
-- Model deployment & inference pipelines
-- AI-assisted developer tools
+<div align="center">
 
+### Building Intelligent Systems. Shipping Real Products.
 
-## 📚 Education  
-
-- 🎓 **B.Tech - Computer Science Engineering (AI-driven language technology)**  
-  KL University, Guntur, Andhra Pradesh | GPA: 9.61
-  *Jul 2024 – Jun 2027*
-
-
-<h2 align="center">🧠 About Me</h2>
-
-I’m a **Computer Science Engineering (CSE ’27)** student with a strong interest in **Machine Learning, AI-powered systems, and backend-heavy full stack development**.
-
-I prefer learning by **building real products** — designing APIs, integrating ML models, handling data pipelines, and deploying applications to the cloud. I enjoy working on problems where **software engineering meets intelligence**, turning models into scalable, real-world systems.
-
-My recent work includes:
-- An **AI-powered code smell detection platform** using AST analysis, ML models, and LLM reasoning  
-- A **toxic content detection system** combining NLP, ML, and LLM-based moderation  
-- Multiple **full stack applications** using Spring Boot, React, and MySQL, following clean architecture and security best practices  
-
-Alongside development, I actively practice **DSA and competitive programming**, which helps me write efficient, structured, and reliable code.
-
-My current focus is growing as an **ML-oriented backend / full stack developer**, with long-term goals in **AI systems, LLM applications, and scalable cloud deployments**.
-
-
-<h2 align="center">🛠️ Technical Skills (Project-Based)</h2>
-
-## 🛠 Tech Stack
-
-<table>
-<tr>
-<td align="center">
-
-### 🚀 Programming Languages
-<a href="https://www.java.com/">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-</a><br>
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</a><br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a><br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-</a><br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center">
-
-### 🧩 Backend & Frameworks
-<a href="https://spring.io/projects/spring-boot">
-<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-</a><br>
-<a href="https://fastapi.tiangolo.com/">
-<img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</a><br>
-<a href="https://react.dev/">
-<img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a><br>
-<a href="https://vitejs.dev/">
-<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center">
-
-### 🤖 Machine Learning & AI
-<a href="https://en.wikipedia.org/wiki/Machine_learning">
-<img src="https://img.shields.io/badge/Machine%20Learning-%2300599C.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a><br>
-<a href="https://en.wikipedia.org/wiki/Natural_language_processing">
-<img src="https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/>
-</a><br>
-<a href="https://openai.com/">
-<img src="https://img.shields.io/badge/LLMs-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
-</a><br>
-<a href="https://en.wikipedia.org/wiki/Abstract_syntax_tree">
-<img src="https://img.shields.io/badge/AST%20Analysis-%23555555.svg?style=for-the-badge"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🗄️ Databases
-<a href="https://www.mysql.com/">
-<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center">
-
-### ☁️ Cloud & Deployment
-<a href="https://aws.amazon.com/">
-<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a><br>
-<a href="https://render.com/">
-<img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white"/>
-</a><br>
-<a href="https://streamlit.io/">
-<img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a><br>
-<a href="https://vercel.com/">
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a><br>
-<a href="https://www.docker.com/">
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center">
-
-### 🧰 Tools & Practices
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-</a><br>
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a><br>
-<a href="https://restfulapi.net/">
-<img src="https://img.shields.io/badge/REST%20APIs-%23007ACC.svg?style=for-the-badge"/>
-</a><br>
-<a href="https://en.wikipedia.org/wiki/System_design">
-<img src="https://img.shields.io/badge/System%20Design-%23666666.svg?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-
-## 🧑‍💻 Experience  
-
-### AWS AI-ML Virtual Internship (Cohort 12)  
-📍 Remote | 🗓️ Apr 2025 – Jun 2025  
-- Completed **AWS Academy Cloud Foundations** and **Machine Learning Foundations**  
-- Built and deployed ML pipelines on **Amazon SageMaker** for computer vision, NLP, and forecasting tasks  
-- Gained hands-on experience with **EC2, IAM, VPC**, and **cloud security best practices**  
-- Applied **Well-Architected Framework principles** in cloud design  
-
-
-## 🚀 Projects  
-
-> **Tech Stack:** Java, FastAPI, Spring Boot, React.js, MySQL, Machine learning, Streamlit, Python, NLP, Sentiment Analysis, LLMs
-
-
-
-### **🛡️ ToxiGuard AI – Abuse Detection System (AI Project)**
-
-🧠 Tech Stack:
-Python | FastAPI | React (Vite) | NLP | Machine Learning | OpenRouter LLM | Plotly
-
-- AI-powered toxic language detection platform with hybrid ML+LLM moderation, real-time analysis, interactive analytics dashboard, and scalable cloud-ready architecture.
-Links
-
-🔗 Repository: https://github.com/wraith-klu/ToxiGuard-AI
-
-🌐 Live Frontend: https://toxiguard-ai.vercel.app
-
-⚙️ Backend API: https://toxiguard-ai-backend.onrender.com/docs
-
-
-## 📜 Certifications  
-
-- ☁️ **AWS Academy Graduate – Cloud Foundations** (Jun 2025)  
-- 🤖 **AWS Academy Graduate – Machine Learning Foundations** (Jun 2025)  
-- 📘 **Introduction to Artificial Intelligence** — IBM, Coursera (Apr 2025)  
-- 🧮 **Dynamic Programming & Greedy Algorithms** — Univ. of Colorado Boulder (Apr 2025)  
-- 🌱 **Spring - Ecosystem and Core** — LearnQuest, Coursera (Apr 2025)  
-- 📊 **Supervised Machine Learning: Regression** — IBM, Coursera (2025)  
-
+</div>
