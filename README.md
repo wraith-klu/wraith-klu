@@ -17,7 +17,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -33,7 +32,6 @@ My interests lie at the intersection of:
 
 I enjoy designing systems that combine robust software engineering with machine intelligence—whether it's a content moderation platform, code analysis engine, or scalable AI backend.
 
----
 
 ## Engineering Snapshot
 
@@ -67,7 +65,6 @@ Currently Exploring:
   - Efficient LLM Inference
 ```
 
----
 
 ## GitHub Analytics
 
@@ -80,7 +77,6 @@ Currently Exploring:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wraith-klu&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## Technology Stack
 
@@ -121,7 +117,6 @@ Currently Exploring:
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" />
 </p>
 
----
 
 # Featured Projects
 
@@ -172,7 +167,6 @@ Moderation Decision
 * Demo: https://toxiguard-ai.vercel.app
 * API: https://toxiguard-ai-backend.onrender.com/docs
 
----
 
 ## Rigel AI
 
@@ -209,7 +203,6 @@ An AI-powered platform that combines static analysis, machine learning, and LLM 
 * GitHub: https://github.com/Wraith-klu/CodeSentinel-Ai
 * Demo: https://rigelai-agent.vercel.app
 
----
 
 ## AWS AI/ML Internship Projects
 
@@ -233,15 +226,7 @@ Completed an intensive 10-week AWS Academy internship focused on machine learnin
 * TensorFlow/Keras
 * 97% Accuracy
 
-### Skills Gained
 
-* AWS SageMaker
-* Model Deployment
-* MLOps Fundamentals
-* Cloud Security
-* Data Pipelines
-
----
 
 ## Achievements
 
@@ -263,7 +248,6 @@ Completed an intensive 10-week AWS Academy internship focused on machine learnin
 * Full-stack ownership from development to deployment
 * Experience building production-ready systems
 
----
 
 ## Education
 
@@ -290,7 +274,6 @@ AI-Driven Language Technology
 * Software Engineering
 * System Design
 
----
 
 ## Current Focus
 
@@ -307,22 +290,6 @@ Learning:
 ├── Distributed Systems
 └── Advanced System Design
 ```
-
----
-
-## Engineering Principles
-
-> Build products, not demos.
-
-> Performance is a feature.
-
-> Simplicity scales better than complexity.
-
-> AI creates value only when integrated into reliable systems.
-
-> Great software combines engineering rigor with user empathy.
-
----
 
 ## Connect With Me
 
@@ -348,7 +315,6 @@ Learning:
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wraith-klu&theme=tokyo-night&hide_border=true" width="100%" />
