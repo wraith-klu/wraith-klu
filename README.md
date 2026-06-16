@@ -13,17 +13,6 @@
 </p>
 
 
-
-
-
-
-
-<div align="center">
-
-# Saurabh Yadav
-
-### AI Systems Engineer • Backend Developer • ML Product Builder
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Production+AI+Systems;Engineering+Scalable+Backend+Architectures;Turning+Research+into+Real+Products;Designing+Intelligent+Developer+Tools" />
 
 </div>
@@ -50,7 +39,7 @@ I enjoy designing systems that combine robust software engineering with machine 
 
 ```yaml
 Name: Saurabh Yadav
-Role: AI Systems Engineer
+Role: AI/ML Engineer
 
 Education:
   Degree: B.Tech Computer Science & Engineering
@@ -59,7 +48,7 @@ Education:
   Graduation: 2027
 
 Core Focus:
-  - AI Systems Engineering
+  - AI/ML Systems Engineering
   - Backend Development
   - Machine Learning Infrastructure
   - System Design
