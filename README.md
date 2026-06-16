@@ -228,51 +228,6 @@ Completed an intensive 10-week AWS Academy internship focused on machine learnin
 
 
 
-## Achievements
-
-### Academic Excellence
-
-* Top 1% of Computer Science Department
-* CGPA: 9.61 / 10
-* Consistent Academic Distinction
-
-### Competitive Programming
-
-* 500+ DSA Problems Solved
-* Active on LeetCode, Codeforces, CodeChef
-* Strong focus on Algorithms and Optimization
-
-### Engineering Impact
-
-* Multiple AI products deployed
-* Full-stack ownership from development to deployment
-* Experience building production-ready systems
-
-
-## Education
-
-### Bachelor of Technology
-
-**Computer Science & Engineering**
-
-**KL University**
-Guntur, Andhra Pradesh
-
-**Specialization**
-AI-Driven Language Technology
-
-**Duration**
-2024 – 2027
-
-**Relevant Coursework**
-
-* Machine Learning
-* Deep Learning
-* NLP
-* Data Structures & Algorithms
-* Database Systems
-* Software Engineering
-* System Design
 
 
 ## Current Focus
