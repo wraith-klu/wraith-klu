@@ -61,8 +61,12 @@ Real-time toxicity detection platform with NLP, ML and Chrome Extension.
 <a href="https://github.com/Wraith-klu"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://wraithklu.vercel.app"><img src="https://skillicons.dev/icons?i=vercel"/></a>
 <a href="mailto:saurabhklu.ai@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
-eadme-activity-graph.vercel.app/graph?username=Wraith-klu&theme=tokyo-night&hide_border=true" width="100%" />
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Wraith-klu&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 <div align="center">
