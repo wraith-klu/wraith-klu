@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Saurabh Yadav 👋</h1>
 
-<h3 align="center">AI/ML Engineer • Backend Developer • CSE '27 @ KL University</h3>
+<h3 align="center">AI/ML Engineer • Backend Developer • CSE '27 @KLUniversity</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;FastAPI+%7C+Machine+Learning+%7C+LLMs;Always+Learning+Something+New" />
