@@ -70,9 +70,6 @@ FastAPI • React • Scikit-Learn • Python
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Wraith-klu&style=for-the-badge&color=0e75b6"/>
 </p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/wraith-klu/wraith-klu/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 
 <p align="center">
@@ -88,6 +85,7 @@ FastAPI • React • Scikit-Learn • Python
       src="https://raw.githubusercontent.com/Wraith-klu/Wraith-klu/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 # 🌐 Connect With Me
 
 <p align="center">
