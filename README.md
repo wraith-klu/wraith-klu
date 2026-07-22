@@ -62,13 +62,6 @@ FastAPI • React • Scikit-Learn • Python
 </p>
 
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Wraith-klu&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-
 # 📈 Contribution Graph
 
 <p align="center">
