@@ -12,9 +12,7 @@ AI/ML Engineer • Backend Developer • CSE '27 @ KL University
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;FastAPI+%7C+Machine+Learning+%7C+LLMs;Always+Learning+Something+New"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Wraith-klu&style=for-the-badge&color=0e75b6"/>
-</p>
+
 
 
 # 🚀 About Me
@@ -77,7 +75,9 @@ FastAPI • React • Scikit-Learn • Python
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wraith-klu&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Wraith-klu&style=for-the-badge&color=0e75b6"/>
+</p>
 
 # 🌐 Connect With Me
 
