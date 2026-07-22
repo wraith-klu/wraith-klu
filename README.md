@@ -47,7 +47,7 @@ Real-time toxicity detection platform with NLP, ML and Chrome Extension.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wraith-klu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wraith-klu&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wraith-klu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
