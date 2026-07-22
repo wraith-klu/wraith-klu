@@ -21,7 +21,6 @@ AI/ML Engineer • Backend Developer • CSE '27 @ KL University
 - 🤖 Passionate about AI, Machine Learning & LLMs
 - ⚡ Backend Developer (FastAPI, Spring Boot)
 - 💻 500+ DSA Problems Solved
-- ☁️ AWS Cloud Practitioner
 - 📍 Open to AI/ML Engineer, Backend & Software Engineering Roles
 
 
@@ -77,6 +76,9 @@ FastAPI • React • Scikit-Learn • Python
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Wraith-klu&style=for-the-badge&color=0e75b6"/>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/wraith-klu/wraith-klu/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 # 🌐 Connect With Me
