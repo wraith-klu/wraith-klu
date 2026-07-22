@@ -1,81 +1,109 @@
-
-<p align="center"> 
+<p align="center">
   <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" alt="welcome gif">
 </p>
 
-
 <h1 align="center">Hi, I'm Saurabh Yadav 👋</h1>
 
-<h3 align="center">AI/ML Engineer • Backend Developer • CSE '27 @KLUniversity</h3>
+<h3 align="center">
+AI/ML Engineer • Backend Developer • CSE '27 @ KL University
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;FastAPI+%7C+Machine+Learning+%7C+LLMs;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;FastAPI+%7C+Machine+Learning+%7C+LLMs;Always+Learning+Something+New"/>
 </p>
 
-## 🚀 About Me
-
-* 🎓 B.Tech CSE (AI-Driven Language Technology), KL University
-* 🤖 Passionate about AI, Machine Learning & LLMs
-* ⚡ Backend Developer (FastAPI, Spring Boot)
-* 💻 500+ DSA Problems Solved
-* ☁️ AWS Cloud Practitioner
-* 📍 Open to Software Engineering & AI/ML Opportunities
-
-
-## 🛠 Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,react,mysql,aws,docker,git,github,tensorflow,pytorch" />
+<img src="https://komarev.com/ghpvc/?username=Wraith-klu&style=for-the-badge&color=0e75b6"/>
 </p>
 
 
-## ⭐ Featured Projects
+# 🚀 About Me
 
-### 🔹 Rigel AI
+- 🎓 B.Tech CSE (AI-Driven Language Technology), KL University
+- 🤖 Passionate about AI, Machine Learning & LLMs
+- ⚡ Backend Developer (FastAPI, Spring Boot)
+- 💻 500+ DSA Problems Solved
+- ☁️ AWS Cloud Practitioner
+- 📍 Open to AI/ML Engineer, Backend & Software Engineering Roles
+
+
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,react,mysql,postgres,docker,aws,git,github,tensorflow,pytorch,linux,vscode" />
+</p>
+
+
+# ⭐ Featured Projects
+
+## 🔹 Rigel AI
 
 AI-powered code analysis platform using AST, Machine Learning & LLMs.
 
-**Tech:** Python • FastAPI • React • OpenRouter
+**Tech**
+Python • FastAPI • React • OpenRouter
 
-### 🔹 ToxiGuard AI
+
+
+## 🔹 ToxiGuard AI
 
 Real-time toxicity detection platform with NLP, ML and Chrome Extension.
 
-**Tech:** FastAPI • React • Scikit-Learn • Python
+**Tech**
+FastAPI • React • Scikit-Learn • Python
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="195em" src="https://github-readme-stats-dusky-seven-87.vercel.app/api?username=wraith-klu&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
-  <img height="195em" src="https://github-readme-stats-dusky-seven-87.vercel.app/api/top-langs/?username=wraith-klu&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="190em" src="https://github-readme-stats-dusky-seven-87.vercel.app/api?username=Wraith-klu&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"/>
+<img height="190em" src="https://github-readme-stats-dusky-seven-87.vercel.app/api/top-langs/?username=Wraith-klu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=wraith-klu&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Wraith-klu&theme=tokyonight&hide_border=true"/>
 </p>
 
 
-
-## 🌐 Connect
+# 🏆 GitHub Trophies
 
 <p align="center">
-<a href="https://linkedin.com/in/wraithklu"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/Wraith-klu"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://wraithklu.vercel.app"><img src="https://skillicons.dev/icons?i=vercel"/></a>
-<a href="mailto:saurabhklu.ai@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Wraith-klu&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
+<img src="https://github-profile-trophy.vercel.app/?username=Wraith-klu&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wraith-klu&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/wraithklu">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Wraith-klu">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://wraithklu.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+<a href="mailto:saurabhklu.ai@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
 
 <div align="center">
 
 ### 🚀 Building Intelligent Systems. Shipping Real Products.
-
-<img src="https://komarev.com/ghpvc/?username=Wraith-klu&style=for-the-badge&color=0e75b6"/>
 
 </div>
