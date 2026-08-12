@@ -12,7 +12,8 @@ AI/ML Engineer • Backend Developer • CSE '27 @ KL University
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;FastAPI+%7C+Machine+Learning+%7C+LLMs;Always+Learning+Something+New"/>
 </p>
 
-
+## Resources
+- [View Resume](https://drive.google.com/file/d/12zGD9smajigMgVAm2qntLS07urHR9GZt/view?usp=sharing)
 
 
 # 🚀 About Me
